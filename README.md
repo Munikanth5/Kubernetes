@@ -1,1 +1,1 @@
-# Kubernetes Installation & Resource
+# Kubernetes Installation & Resources
